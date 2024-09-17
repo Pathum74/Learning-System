@@ -1,0 +1,62 @@
+E:\C#\Learning System\UserAuthentication\bin\Debug\uaDB.mdf
+E:\C#\Learning System\UserAuthentication\bin\Debug\uaDB_log.ldf
+E:\C#\Learning System\UserAuthentication\bin\Debug\UserAuthentication.exe.config
+E:\C#\Learning System\UserAuthentication\bin\Debug\UserAuthentication.exe
+E:\C#\Learning System\UserAuthentication\bin\Debug\UserAuthentication.pdb
+E:\C#\Learning System\UserAuthentication\obj\Debug\LearningSystem.csproj.AssemblyReference.cache
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.frm_Add_User_Admin.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Aenglish.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Ahealth.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Ahistory.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Aict.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Amaths.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Ascience.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.frm_assignment.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.frm_attendance.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Frm_login.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Frm_Home.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Noteenglish.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Notehealth.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Notehistory.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Noteict.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Notemath.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.frm_notes.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Notescience.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.frm_payment.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Properties.Resources.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.frm_students.resources
+E:\C#\Learning System\UserAuthentication\obj\Debug\LearningSystem.csproj.GenerateResource.cache
+E:\C#\Learning System\UserAuthentication\obj\Debug\LearningSystem.csproj.CoreCompileInputs.cache
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.exe
+E:\C#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.pdb
+E:\MY projects\c#\Learning System\UserAuthentication\bin\Debug\uaDB.mdf
+E:\MY projects\c#\Learning System\UserAuthentication\bin\Debug\uaDB_log.ldf
+E:\MY projects\c#\Learning System\UserAuthentication\bin\Debug\UserAuthentication.exe.config
+E:\MY projects\c#\Learning System\UserAuthentication\bin\Debug\UserAuthentication.exe
+E:\MY projects\c#\Learning System\UserAuthentication\bin\Debug\UserAuthentication.pdb
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\LearningSystem.csproj.AssemblyReference.cache
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.frm_Add_User_Admin.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Aenglish.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Ahealth.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Ahistory.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Aict.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Amaths.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Ascience.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.frm_assignment.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.frm_attendance.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Frm_login.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Frm_Home.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Noteenglish.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Notehealth.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Notehistory.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Noteict.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Notemath.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.frm_notes.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Notescience.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.frm_payment.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.Properties.Resources.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.frm_students.resources
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\LearningSystem.csproj.GenerateResource.cache
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\LearningSystem.csproj.CoreCompileInputs.cache
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.exe
+E:\MY projects\c#\Learning System\UserAuthentication\obj\Debug\UserAuthentication.pdb
